@@ -1,0 +1,1 @@
+Linked list is a dynamic data structure consisting of nodes which can be inserted or deleted at run-time. Each node consists of 2 parts - information/data part & a pointer to the next node. We may insert the nodes in sorted order so that the search efficiency is good !
